@@ -1,0 +1,106 @@
+page_id,company,url,category,approx_size,location,crawled_at
+W5066,Granite Industries Ltd.,graniteindustries.com,edtech,11-50,"Munich, DE",2025-05-04
+W5312,Orbit Labs Corp,https://www.orbitlabs.com/about,clean energy,11-50,"Munich, Deutschland",2025-05-11
+W5320,Ironwood Labs Inc,https://www.ironwoodlabs.com/about,logistics,1000+,"Manchester, United Kingdom",2025-06-01
+W5024,glint analytics,glintanalytics.com,cybersecurity,501-1000,"Toronto, Canada",2025-01-22
+W5355,DRIFT WORKS LLC,www.driftworks.com/,clean energy,201-500,"Pune, IN",2026-02-08
+W5157,tideline labs Inc.,tidelinelabs.com,factory / industrial,201-500,"Sydney, AU",2026-02-05
+W5089,LUMEN WORKS Co.,https://www.lumenworks.com/about,edtech,1-10,,2026-02-23
+W5334,QUARTZ LABS LLC,quartzlabs.com,logistics,51-200,"Hyderabad, IN",2025-01-13
+W5047,pinecrest technologies Corp,PINECRESTTECHNOLOGIES.COM,logistics,1-10,"Denver, United States",2026-05-22
+W5259,Northwind Industries,http://northwindindustries.com,finance / payments,51-200,"Munich, DE",2025-05-14
+W5014,Dovetail Works Corp,https://www.dovetailworks.com/about,ecommerce / retail,1000+,"Toronto, CAN",2026-01-08
+W5131,acorn group Inc,http://acorngroup.com,health tech,51-200,"Toronto, CAN",2026-03-03
+W5128,FATHOM WORKS Corp,http://fathomworks.com,finance / payments,501-1000,"Bristol, United Kingdom",2025-05-15
+W5082,Orbit Technologies Inc,https://www.orbittechnologies.com/about,cybersecurity,11-50,"London, Britain",2025-03-11
+W5308,Harbor Dynamics Corp,https://www.harbordynamics.com/about,health tech,11-50,"Sydney, AUS",2026-03-23
+W5262,Onyx Solutions Ltd,www.onyxsolutions.com/,logistics,51-200,"Munich, Germany",2025-05-09
+W5345,Inlet Technologies Co.,inlettechnologies.com,cybersecurity,1000+,"Toronto, CA",2026-05-05
+W5052,"Onyx,Analytics GmbH",onyxanalytics.com,edtech,501-1000,"Pune, India",2026-05-22
+W5272,JUNIPER INDUSTRIES Corp,juniperindustries.com,ecommerce / retail,501-1000,,2025-03-06
+W5103,"fathom,analytics LLC",fathomanalytics.com,ecommerce / retail,501-1000,"Berlin, Deutschland",2026-04-17
+W5055,ANCHOR INDUSTRIES Inc,anchorindustries.com,health tech,1000+,"Bengaluru, Bharat",2025-05-12
+W5292,Cobalt Group GmbH,www.cobaltgroup.com/,logistics,11-50,"Manchester, U.K.",2025-02-25
+W5236,Basalt Technologies Ltd,http://basalttechnologies.com,telecoms,11-50,"Berlin, Germany",2025-03-24
+W5138,Fathom Networks Inc,https://www.fathomnetworks.com/about,edtech,51-200,"Manchester, Britain",2026-04-24
+W5215,ANCHOR LABS LLC,anchorlabs.com,telecoms,1000+,"Toronto, Canada",2025-04-15
+W5223,",MOSAIC GROUP Corp",www.mosaicgroup.com/,clean energy,1000+,,2025-05-18
+W5183,Lumen Industries,www.lumenindustries.com/,edtech,501-1000,"Berlin, DE",2026-04-19
+W5109,Umbra Dynamics Ltd.,www.umbradynamics.com/,gaming,201-500,"Melbourne, Australia",2026-05-25
+W5360,Anchor Networks GmbH,ANCHORNETWORKS.CO1,telecoms,51-200,,2026-06-10
+W5172,thicket works Corp,thicketworks.com,clean energy,11-50,"Berlin, DE",2025-02-01
+W5221,granite systems GmbH,www.granitesystems.com/,cybersecurity,1000+,"Vancouver, CAN",2025-06-19
+W5049,Juniper Labs LLC,https://www.juniperlabs.com/about,finance / payments,201-500,"Pune, IN",2025-02-04
+W5060,BIRCH SOLUTIONS GmbH,birchsolutions.com,finance / payments,201-500,"Berlin, Deutschland",2025-04-26
+W5069,"Anchor,Analytics",https://www.anchoranalytics.com/about,finance / payments,51-200,"Vancouver, CA",2025-06-16
+W5296,YARROW INDUSTRIES,YARROWINDUSTRIES.COM,health tech,11-50,"Bristol, U.K.",2026-01-19
+W5269,WILLOW INDUSTRIES Inc.,https://www.willowindustries.com/about,cybersecurity,1000+,"Toronto, CAN",2025-01-11
+W5092,Meridian Solutions,meridiansolutions.com,health tech,51-200,"Toronto, CAN",2026-01-02
+W5332,Meridian Networks Ltd,www.meridiannetworks.com/,ecommerce / retail,1000+,"Sydney, AU",2026-05-13
+W5011,"Onyx,Works Corp",https://www.onyxworks.com/about,health tech,201-500,,2025-03-19
+W5072,Saffron Networks Ltd,saffronnetworks.com,cybersecurity,1-10,"Toronto, Canada",2025-01-19
+W5230,Nimbus Technologies GmbH,https://www.nimbustechnologies.com/about,ecommerce / retail,201-500,"Berlin, DE",2025-02-25
+W5146,Hollow Solutions GmbH,www.hollowsolutions.com/,telecoms,51-200,"Toronto, CAN",2026-04-09
+W5079,Kestrel Systems Ltd.,https://www.kestrelsystems.com/about,health tech,11-50,,2026-03-14
+W5039,"Tideline,Works GmbH",http://tidelineworks.com,factory / industrial,1-10,"Boston, US",2026-04-18
+W5287,Harbor Systems,https://www.harborsystems.com/about,clean energy,51-200,"Toronto, CA",2026-06-08
+W5003,Jetty Solutions Inc.,http://jettysolutions.com,health tech,11-50,"Denver, U.S.A.",2025-03-03
+W5315,Meridian Dynamics,https://www.meridiandynamics.com/about,ecommerce / retail,501-1000,"Toronto, CAN",2025-05-21
+W5239,QUARTZ WORKS Inc.,www.quartzworks.com/,gaming,1-10,"Austin, U.S.A.",2026-05-20
+W5289,Mosaic Technologies Inc.,mosaictechnologies.com,telecoms,51-200,"Austin, U.S.A.",2025-01-09
+W5036,Hollow Works GmbH,https://www.hollowworks.com/about,health tech,1000+,"Bristol, U.K.",2025-02-16
+W5097,Cobalt Systems Ltd.,http://cobaltsystems.com,health tech,201-500,"Melbourne, Australia",2025-03-18
+W5084,Yarrow Works Ltd.,yarrowworks.com,edtech,1000+,"Manchester, Britain",2025-01-25
+W5114,umbra analytics,https://www.umbraanalytics.com/about,health tech,501-1000,"Sydney, AU",2026-02-23
+W5143,Meridian Labs Co.,https://www.meridianlabs.com/about,cybersecurity,11-50,"Sydney, AUS",2025-01-15
+W5151,TIDELINE TECHNOLOGIES Corp,https://www.tidelinetechnologies.com/about,ecommerce / retail,201-500,,2025-06-23
+W5322,Lumen Systems Corp,www.lumensystems.com/,edtech,201-500,"Vancouver, CA",2025-02-21
+W5185,"PETAL,WORKS Inc",petalworks.com,finance / payments,201-500,,2026-04-25
+W5251,Sterling Solutions Ltd.,www.sterlingsolutions.com/,logistics,201-500,"Toronto, CAN",2026-03-15
+W5194,Quartz Systems,http://quartzsystems.com,edtech,11-50,"Austin, United States",2026-05-13
+W5175,Kestrel Labs Ltd.,www.kestrellabs.com/,finance / payments,1-10,"Berlin, Deutschland",2025-04-21
+W5100,Ember Group Co.,https://www.embergroup.com/about,telecoms,11-50,"London, Britain",2026-02-24
+W5188,Umbra Labs GmbH,http://umbralabs.com,clean energy,201-500,"Seattle, U.S.A.",2025-06-04
+W5123,MOSAIC SOLUTIONS,www.mosaicsolutions.com/,gaming,501-1000,"Melbourne, Australia",2026-05-10
+W5254,"Zephyr,Works",zephyrworks.com,logistics,11-50,"Manchester, Britain",2026-02-08
+W5169,THICKET LABS GmbH,thicketlabs.com,ecommerce / retail,501-1000,"Munich, Deutschland",2025-04-16
+W5266,Harbor Works GmbH,HARBORWORKS.COM,clean energy,1000+,,2025-01-22
+W5044,Cedar Labs,https://www.cedarlabs.com/about,telecoms,1-10,"Berlin, Deutschland",2026-03-07
+W5021,Zephyr Systems Ltd,zephyrsystems.com,edtech,501-1000,"Toronto, CA",2025-05-15
+W5210,Zephyr Dynamics GmbH,zephyrdynamics.com,clean energy,11-50,"Toronto, Canada",2026-05-26
+W5365,thicket works Inc,http://thicketworks.co3,logistics,501-1000,"Melbourne, AU",2025-05-05
+W5135,hollow group Ltd.,hollowgroup.com,ecommerce / retail,1-10,"Munich, Deutschland",2025-02-28
+W5063,Zephyr Group Ltd.,https://www.zephyrgroup.com/about,ecommerce / retail,1000+,"Manchester, Britain",2026-06-11
+W5178,Glint Networks LLC,GLINTNETWORKS.COM,clean energy,501-1000,"Vancouver, CA",2025-06-18
+W5201,Fathom Labs Ltd,https://www.fathomlabs.com/about,ecommerce / retail,501-1000,,2025-05-19
+W5030,"Halcyon,Analytics GmbH",HALCYONANALYTICS.COM,ecommerce / retail,1000+,"Seattle, U.S.A.",2025-04-17
+W5006,PETAL INDUSTRIES Inc.,PETALINDUSTRIES.COM,factory / industrial,1000+,"Hyderabad, IN",2026-01-10
+W5351,Jetty Systems Ltd,http://jettysystems.com,finance / payments,501-1000,"London, United Kingdom",2026-04-20
+W5027,Orbit Analytics Ltd.,http://orbitanalytics.com,telecoms,1000+,"Bengaluru, IN",2025-05-26
+W5348,Acorn Technologies Ltd,acorntechnologies.com,edtech,11-50,"Berlin, DE",2026-05-22
+W5299,Juniper Works GmbH,http://juniperworks.com,gaming,11-50,"Melbourne, AU",2026-06-16
+W5218,Larkspur Networks,http://larkspurnetworks.com,health tech,1000+,"Melbourne, Australia",2026-02-02
+W5281,"Brightpath,Dynamics Inc.",BRIGHTPATHDYNAMICS.COM,clean energy,11-50,"Berlin, Germany",2026-04-12
+W5225,PETAL DYNAMICS Inc,www.petaldynamics.com/,cybersecurity,1-10,,2026-04-22
+W5204,ELMWOOD SYSTEMS,ELMWOODSYSTEMS.COM,factory / industrial,501-1000,"Boston, United States",2026-06-13
+W5154,Northwind Systems Co.,northwindsystems.com,ecommerce / retail,11-50,,2025-03-10
+W5017,Elmwood Technologies Inc.,https://www.elmwoodtechnologies.com/about,clean energy,11-50,"Sydney, AUS",2026-02-03
+W5337,"Kestrel,Solutions Co.",www.kestrelsolutions.com/,finance / payments,1000+,"Denver, USA",2025-03-16
+W5232,INLET GROUP Inc.,https://www.inletgroup.com/about,logistics,11-50,"Munich, DE",2025-05-13
+W5339,Ironwood Analytics Co.,ironwoodanalytics.com,clean energy,51-200,"Berlin, DE",2026-02-03
+W9001,Untitled Page,javascript:void(0),,?,,2026-13-40
+W5033,TIDELINE SOLUTIONS Co.,TIDELINESOLUTIONS.COM,finance / payments,51-200,,2026-06-20
+W5119,Fathom Technologies Ltd,https://www.fathomtechnologies.com/about,ecommerce / retail,1-10,"Toronto, CAN",2026-06-02
+W5302,Anchor Networks Co.,ANCHORNETWORKS.COM,clean energy,501-1000,"Sydney, AUS",2025-03-11
+W5330,Foxglove Works Inc.,https://www.foxgloveworks.com/about,edtech,1000+,"Sydney, AUS",2025-04-16
+W5207,Brightpath Works Ltd.,https://www.brightpathworks.com/about,clean energy,1000+,"London, United Kingdom",2026-01-12
+W5246,Nimbus Analytics LLC,http://nimbusanalytics.com,edtech,51-200,"Austin, US",2026-05-27
+W5305,Willow Networks Ltd.,willownetworks.com,telecoms,11-50,"Sydney, AU",2026-01-24
+W5074,Yarrow Technologies LLC,www.yarrowtechnologies.com/,logistics,501-1000,,2025-04-08
+W5106,",Lumen Dynamics LLC",http://lumendynamics.com,health tech,1-10,"Toronto, CAN",2026-02-18
+W5256,Anchor Works Co.,www.anchorworks.com/,finance / payments,51-200,"Pune, IN",2026-04-18
+W5327,GRANITE DYNAMICS Corp,https://www.granitedynamics.com/about,edtech,501-1000,"Berlin, DE",2026-02-07
+W5362,Sterling Industries GmbH,STERLINGINDUSTRIES.CO2,ecommerce / retail,501-1000,"Berlin, Deutschland",2025-04-01
+W5213,Quartz Dynamics Co.,http://quartzdynamics.com,ecommerce / retail,201-500,,2025-04-26
+W5166,ORBIT DYNAMICS LLC,https://www.orbitdynamics.com/about,gaming,11-50,"Vancouver, CA",2025-01-20
+W5342,VERDANT SOLUTIONS Ltd,http://verdantsolutions.com,factory / industrial,51-200,"Denver, USA",2025-05-17

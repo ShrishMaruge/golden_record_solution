@@ -1,0 +1,101 @@
+crm_id,account_name,website,industry,headcount,country,city,primary_contact_email,last_updated
+CRM5170,Drift Technologies GmbH,https://drifttechnologies.com,Retail,1080,United States,Austin,info@drifttechnologies.com,2023-03-09
+CRM5058,Birch Solutions Co.,https://birchsolutions.com,Fintech,1600,DE,Berlin,info@birchsolutions.com,2023-04-28
+CRM5064,Granite Industries,https://graniteindustries.com,Education,15,DE,Munich,info@graniteindustries.com,2024-10-26
+CRM5219,"Granite,Systems LLC",granitesystems.com,Games,1280,CAN,,info@granitesystems.com,2022-10-05
+CRM5077,Kestrel Systems Inc.,kestrelsystems.com,Games,8,Germany,Munich,info@kestrelsystems.com,2024-04-07
+CRM5176,GLINT NETWORKS Ltd,glintnetworks.com,Energy,324,Canada,Vancouver,info@glintnetworks.com,2024-10-05
+CRM5363,",thicket works Co. ",thicketworks.co3,Shipping,560,AUS,Melbourne,info@thicketworks.com,2022-02-22
+CRM5361,Sterling Industries Ltd.,https://sterlingindustries.co2,Fintech,480,Germany,Berlin,info@sterlingindustries.com,2023-07-07
+CRM5085, Thicket Networks ,thicketnetworks.com,Security,450,US,Seattle,info@thicketnetworks.com,2024-02-07
+CRM5211,quartz dynamics Ltd,quartzdynamics.com,Retail,168,Bharat,Hyderabad,info@quartzdynamics.com,2023-11-08
+CRM5012,dovetail works Inc,dovetailworks.com,Retail,1920,CA,Toronto,,2024-01-24
+CRM5233,harbor technologies Inc.,https://harbortechnologies.com,Manufacturing,360,AUS,Sydney,info@harbortechnologies.com,2024-04-28
+CRM5031,Tideline Solutions,tidelinesolutions.com,Fintech,80,Germany,Munich,info@tidelinesolutions.com,2024-08-20
+CRM5164,Orbit Dynamics Corp,https://orbitdynamics.com,Games,112,Canada,Vancouver,info@orbitdynamics.com,2023-04-02
+CRM5160,NORTHWIND WORKS LLC,northwindworks.com,Shipping,15,Deutschland,,info@northwindworks.com,2022-05-12
+CRM5257,NORTHWIND INDUSTRIES Inc.,northwindindustries.com,Fintech,36,DE,Munich,info@northwindindustries.com,2024-03-04
+CRM5080,"Orbit,Technologies GmbH",https://orbittechnologies.com,Security,22,Britain,,info@orbittechnologies.com,2024-11-17
+CRM5101, FATHOM ANALYTICS Ltd ,fathomanalytics.com,Retail,,DE,Berlin,info@fathomanalytics.com,2022-11-05
+CRM5129,Acorn Group Ltd,,Health,36,CA,Toronto,info@acorngroup.com,2022-06-13
+CRM5199,Fathom Labs,fathomlabs.com,Retail,,Britain,London,info@fathomlabs.com,2024-01-28
+CRM9001,  ,,,lots,,,broken@,0000-00-00
+CRM5124,thicket technologies Inc,https://thickettechnologies.com,Telecom,22,India,,,2024-12-19
+CRM5098,ember group Inc,,Telecom,31,UK,,info@embergroup.com,2024-12-17
+CRM5179, Ember Works Inc ,emberworks.com,Shipping,45,United Kingdom,Manchester,info@emberworks.com,2024-01-18
+CRM5009,Onyx Works GmbH,https://onyxworks.com,Health,112,Deutschland,Munich,info@onyxworks.com,2022-06-20
+CRM5247,",Ember Industries Corp ",emberindustries.com,Games,196,Germany,Berlin,info@emberindustries.com,2023-04-28
+CRM5181,"Lumen,Industries Inc",lumenindustries.com,Education,96,DE,Berlin,info@lumenindustries.com,2024-08-02
+CRM5267,WILLOW INDUSTRIES Inc,willowindustries.com,Security,,CAN,Toronto,info@willowindustries.com,2023-10-25
+CRM5275,STERLING LABS,https://sterlinglabs.com,Education,62,Britain,,info@sterlinglabs.com,2022-01-21
+CRM5202,Elmwood Systems Inc,https://elmwoodsystems.com,Telecom,270,US,Boston,info@elmwoodsystems.com,2024-06-16
+CRM5352,Onyx Industries,onyxindustries.com,Security,140,DE,Berlin,info@onyxindustries.com,2024-01-16
+CRM5356,"Cobalt,Labs LLC",https://cobaltlabs.co0,Shipping,100,IN,Pune,info@cobaltlabs.com,2023-03-11
+CRM5191, Inlet Dynamics ,https://inletdynamics.com,Retail,,India,Hyderabad,info@inletdynamics.com,2024-04-02
+CRM5056,Orbit Systems Co.,https://orbitsystems.com,Security,62,U.S.A.,Austin,,2022-02-15
+CRM5061,ZEPHYR GROUP,zephyrgroup.com,Retail,900,U.K.,Manchester,info@zephyrgroup.com,2024-05-28
+CRM5155, Tideline Labs Inc ,tidelinelabs.com,Manufacturing,15,Australia,,info@tidelinelabs.com,2022-09-25
+CRM5034,Hollow Works Ltd,https://hollowworks.com,Health,1600,United Kingdom,Bristol,info@hollowworks.com,2023-04-22
+CRM5279, Brightpath Dynamics ,https://brightpathdynamics.com,Energy,112,Germany,Berlin,info@brightpathdynamics.com,2022-11-08
+CRM5237,Quartz Works Inc.,https://quartzworks.com,Games,4,USA,,info@quartzworks.com,2023-05-17
+CRM5090,Meridian Solutions Corp,https://meridiansolutions.com,Health,,CAN,,info@meridiansolutions.com,2022-10-09
+CRM5255,Anchor Works Co.,anchorworks.com,Fintech,112,IN,Pune,info@anchorworks.com,2022-08-23
+CRM5112,Umbra Analytics Inc.,umbraanalytics.com,Security,540,AU,Sydney,info@umbraanalytics.com,2023-09-07
+CRM5311,"Orbit,Labs Ltd.",orbitlabs.com,Energy,11,Deutschland,,info@orbitlabs.com,2023-09-15
+CRM5240,Brightpath Labs Corp,https://brightpathlabs.com,Energy,5,DE,Berlin,info@brightpathlabs.com,2024-02-25
+CRM5349,Jetty Systems Inc.,https://jettysystems.com,Fintech,450,Britain,London,info@jettysystems.com,2024-03-05
+CRM5132,"cobalt,networks Co.",cobaltnetworks.com,Education,54,Bharat,Hyderabad,info@cobaltnetworks.com,2023-02-24
+CRM5122,Mosaic Solutions Ltd,https://mosaicsolutions.com,Fintech,216,AU,Melbourne,info@mosaicsolutions.com,2024-08-20
+CRM5095,Cobalt Systems Inc,,Health,,Australia,Melbourne,info@cobaltsystems.com,2023-11-07
+CRM5073,Yarrow Technologies Ltd,https://yarrowtechnologies.com,Shipping,216,UK,,info@yarrowtechnologies.com,2022-03-19
+CRM5303,willow networks LLC,willownetworks.com,Telecom,13,AUS,Sydney,info@willownetworks.com,2023-01-14
+CRM5001,Jetty Solutions Corp,jettysolutions.com,Health,8,U.S.A.,Denver,info@jettysolutions.com,2023-04-16
+CRM5107,Umbra Dynamics Ltd.,,Telecom,900,AU,Melbourne,,2022-04-21
+CRM5152,Northwind Systems Corp,https://northwindsystems.com,Retail,,India,Pune,,2022-02-21
+CRM5260,Onyx Solutions Inc,https://onyxsolutions.com,Shipping,96,Deutschland,Munich,info@onyxsolutions.com,2024-05-15
+CRM5173,KESTREL LABS Inc,kestrellabs.com,Fintech,4,Deutschland,Berlin,info@kestrellabs.com,2024-12-05
+CRM5300, Anchor Networks Corp ,anchornetworks.com,Energy,270,AU,,info@anchornetworks.com,2022-01-19
+CRM5270,Juniper Industries Co.,juniperindustries.com,Retail,270,CAN,Toronto,,2023-08-07
+CRM5040,Anchor Solutions LLC,anchorsolutions.com,Fintech,13,DE,Munich,info@anchorsolutions.com,2024-09-10
+CRM5158,Tideline Systems Ltd,https://tidelinesystems.com,Security,11,AU,Sydney,info@tidelinesystems.com,2022-12-11
+CRM5104,LUMEN DYNAMICS Ltd,https://lumendynamics.com,Health,112,CA,Toronto,info@lumendynamics.com,2024-03-16
+CRM5120,Glint Technologies Inc.,https://glinttechnologies.com,Games,,USA,Seattle,info@glinttechnologies.com,2024-12-14
+CRM5333,Quartz Labs Inc.,quartzlabs.com,Energy,36,Bharat,Hyderabad,info@quartzlabs.com,2024-08-04
+CRM5144,Hollow Solutions Ltd.,hollowsolutions.com,Telecom,45,CAN,Toronto,info@hollowsolutions.com,2022-10-02
+CRM5149,tideline technologies Ltd,tidelinetechnologies.com,Retail,140,India,Bengaluru,info@tidelinetechnologies.com,2023-02-10
+CRM5231,"Inlet,Group Inc",inletgroup.com,Retail,22,DE,Munich,info@inletgroup.com,2024-08-16
+CRM5167,Thicket Labs Co.,thicketlabs.com,Retail,630,Deutschland,,info@thicketlabs.com,2023-04-23
+CRM5087, lumen works Inc ,https://lumenworks.com,Education,,DE,,info@lumenworks.com,2023-08-24
+CRM5136,FATHOM NETWORKS GmbH,https://fathomnetworks.com,Education,,U.K.,Manchester,,2023-12-10
+CRM5205,brightpath works Inc,https://brightpathworks.com,Fintech,1080,Britain,London,info@brightpathworks.com,2022-11-01
+CRM5216, Larkspur Networks LLC ,,Health,900,Australia,,info@larkspurnetworks.com,2023-10-08
+CRM5133,Hollow Group Inc.,https://hollowgroup.com,Retail,3,DE,,info@hollowgroup.com,2024-07-08
+CRM5226,ember systems LLC,embersystems.com,Shipping,,India,Bengaluru,info@embersystems.com,2023-11-06
+CRM5309,Elmwood Works LLC,https://elmwoodworks.com,Security,900,United Kingdom,,info@elmwoodworks.com,2023-08-15
+CRM5222, MOSAIC GROUP GmbH ,https://mosaicgroup.com,Energy,1260,United States,Denver,info@mosaicgroup.com,2022-08-14
+CRM5313,meridian dynamics Ltd.,meridiandynamics.com,Shipping,4,CA,Toronto,info@meridiandynamics.com,2023-06-13
+CRM5025, ORBIT ANALYTICS GmbH ,,Telecom,1280,India,Bengaluru,info@orbitanalytics.com,2024-06-11
+CRM5224,"petal,dynamics Co.",,Telecom,1260,US,Boston,info@petaldynamics.com,2022-03-27
+CRM5323,Rivet Works Co.,https://rivetworks.com,Health,630,UK,London,info@rivetworks.com,2024-10-27
+CRM5234, Basalt Technologies Co. ,,Telecom,,DE,,info@basalttechnologies.com,2023-08-10
+CRM5228,Nimbus Technologies Ltd,nimbustechnologies.com,Retail,196,DE,Berlin,,2022-03-05
+CRM5297, Juniper Works Co. ,https://juniperworks.com,Games,13,AUS,Melbourne,,2024-05-27
+CRM5249,Sterling Solutions Ltd,https://sterlingsolutions.com,Shipping,112,Canada,Toronto,info@sterlingsolutions.com,2023-09-13
+CRM5141,Meridian Labs Ltd.,meridianlabs.com,Security,22,AUS,Sydney,info@meridianlabs.com,2023-02-08
+CRM5293,Larkspur Dynamics Inc,larkspurdynamics.com,Health,,Australia,Melbourne,,2024-04-17
+CRM5050,Onyx Analytics GmbH,https://onyxanalytics.com,Education,8,India,Pune,info@onyxanalytics.com,2023-03-21
+CRM5045,Pinecrest Technologies,pinecresttechnologies.com,Energy,5,USA,Denver,info@pinecresttechnologies.com,2023-02-04
+CRM5306,Harbor Dynamics LLC,,Health,27,Australia,,info@harbordynamics.com,2023-12-27
+CRM5282,COBALT LABS Ltd.,cobaltlabs.com,Games,216,AUS,Melbourne,info@cobaltlabs.com,2022-06-18
+CRM5067,Anchor Analytics Co.,https://anchoranalytics.com,Telecom,,Canada,Vancouver,info@anchoranalytics.com,2023-10-19
+CRM5335,kestrel solutions Corp,https://kestrelsolutions.com,Fintech,168,U.S.A.,Denver,info@kestrelsolutions.com,2024-09-13
+CRM5318,Ironwood Labs Corp,ironwoodlabs.com,Shipping,,UK,Manchester,info@ironwoodlabs.com,2023-12-16
+CRM5015,Elmwood Technologies GmbH,https://elmwoodtechnologies.com,Energy,27,AUS,Sydney,info@elmwoodtechnologies.com,2022-07-25
+CRM5004,Petal Industries,,Manufacturing,1920,Bharat,,info@petalindustries.com,2023-10-28
+CRM5294,Yarrow Industries Co.,https://yarrowindustries.com,Fintech,,U.K.,Bristol,info@yarrowindustries.com,2022-08-03
+CRM5277, Saffron Systems Inc. ,saffronsystems.com,Education,15,India,Hyderabad,info@saffronsystems.com,2023-02-17
+CRM5263,nimbus networks Inc,nimbusnetworks.com,Energy,11,United Kingdom,London,info@nimbusnetworks.com,2022-04-05
+CRM5252,Zephyr Works Inc.,https://zephyrworks.com,Shipping,,United Kingdom,Manchester,info@zephyrworks.com,2023-01-08
+CRM5053,Anchor Industries Ltd,https://anchorindustries.com,Health,720,India,Bengaluru,,2023-03-18
+CRM5022,Glint Analytics LLC,glintanalytics.com,Security,2240,Canada,Toronto,info@glintanalytics.com,2022-11-20
+CRM5208,Zephyr Dynamics GmbH,https://zephyrdynamics.com,Energy,,CA,Toronto,info@zephyrdynamics.com,2024-04-25

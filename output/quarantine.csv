@@ -1,0 +1,4 @@
+source,source_id,name,domain,reason
+crm,CRM9001,,,missing_name_and_domain
+vendor,V9001,,,missing_name_and_domain
+web,W9001,Untitled Page,,junk_web_page_without_company_identity

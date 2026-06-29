@@ -1,0 +1,119 @@
+vendor_id,legal_name,domain,employees,industry,revenue_band,founded_year,hq_country,as_of
+V5068,Anchor Analytics GmbH,anchoranalytics.com,160,Telecommunications,$10M-$50M,1994,Canada,2025-08-07
+V5295,Yarrow Industries Inc.,yarrowindustries.com,8,Financial Services,$10M-$50M,2004,United Kingdom,2025-07-26
+V5250,Sterling Solutions Inc.,sterlingsolutions.com,280,Logistics & Supply Chain,<$1M,2009,Canada,2025-12-07
+V5190,Sterling Dynamics Ltd.,sterlingdynamics.com,22,Logistics & Supply Chain,$10M-$50M,2004,Germany,2025-01-14
+V5111,Northwind Labs Ltd.,northwindlabs.com,22,Interactive Entertainment,$250M+,2018,United Kingdom,2025-12-06
+V5187,Umbra Labs Inc.,umbralabs.com,280,Energy & Utilities,$250M+,2004,United States,2025-12-15
+V5336,Kestrel Solutions Ltd.,kestrelsolutions.com,280,Financial Services,$10M-$50M,2017,United States,2025-11-23
+V5121,Glint Technologies LLC,glinttechnologies.com,8,Interactive Entertainment,$250M+,2007,United States,2025-11-23
+V5265,Harbor Works GmbH,harborworks.com,1800,Consumer Retail,$250M+,2009,India,2025-02-13
+V5241,Brightpath Labs GmbH,brightpathlabs.com,8,Energy & Utilities,$250M+,2017,Germany,2025-08-14
+V5286,Harbor Systems Inc.,harborsystems.com,22,Education Technology,$1M-$10M,2018,Canada,2025-05-25
+V5326,Granite Dynamics GmbH,granitedynamics.com,900,Telecommunications,$10M-$50M,2018,Germany,2025-07-02
+V5041,Anchor Solutions Ltd.,anchorsolutions.com,22,Financial Services,$50M-$250M,2005,Germany,2025-02-20
+V5314,Meridian Dynamics GmbH,meridiandynamics.com,8,Logistics & Supply Chain,<$1M,2020,Canada,2025-03-11
+V5209,Zephyr Dynamics LLC,zephyrdynamics.com,45,Energy & Utilities,$250M+,2001,Canada,2025-05-28
+V5094,Cinder Labs Inc.,cinderlabs.com,540,Education Technology,$250M+,1991,Australia,2025-08-06
+V9001,,,,,,n/a,,
+V5291,Cobalt Group Ltd.,cobaltgroup.com,3200,Logistics & Supply Chain,<$1M,1999,United Kingdom,2025-08-25
+V5198,Pinecrest Industries LLC,pinecrestindustries.com,160,Industrial Manufacturing,$10M-$50M,2015,Australia,2025-09-07
+V5310,Elmwood Works LLC,elmwoodworks.com,1800,Information Security,$250M+,2012,United Kingdom,2025-09-23
+V5227,Ember Systems Inc.,embersystems.com,540,Logistics & Supply Chain,$10M-$50M,1993,India,2025-03-08
+V5140,Birch Group LLC,birchgroup.com,160,Consumer Retail,$50M-$250M,2006,Canada,2025-05-08
+V5161,Northwind Works LLC,northwindworks.com,22,Logistics & Supply Chain,$1M-$10M,2003,Germany,2025-07-27
+V5051,Onyx Analytics LLC,onyxanalytics.com,22,Education Technology,$1M-$10M,1995,India,2025-08-15
+V5196,Granite Group GmbH,granitegroup.com,90,Logistics & Supply Chain,$1M-$10M,2005,United Kingdom,2025-11-01
+V5054,Anchor Industries GmbH,anchorindustries.com,1800,Healthcare Technology,$1M-$10M,2005,India,2025-07-05
+V5150,Tideline Technologies Inc.,tidelinetechnologies.com,280,Consumer Retail,$50M-$250M,2003,India,2025-08-18
+V5271,Juniper Industries Inc.,juniperindustries.com,540,Consumer Retail,<$1M,2017,Canada,2025-03-19
+V5357,Cobalt Labs LLC,cobaltlabs.co0,200,Logistics & Supply Chain,<$1M,2014,India,2025-07-27
+V5005,Petal Industries Inc.,petalindustries.com,3200,Industrial Manufacturing,$1M-$10M,2013,India,2025-12-12
+V5341,Verdant Solutions GmbH,verdantsolutions.com,90,Industrial Manufacturing,$50M-$250M,2006,United States,2025-04-21
+V5029,Halcyon Analytics LLC,halcyonanalytics.com,3200,Consumer Retail,$1M-$10M,2003,United States,2025-04-28
+V5137,Fathom Networks Inc.,fathomnetworks.com,45,Education Technology,$250M+,1993,United Kingdom,2025-03-14
+V5177,Glint Networks LLC,glintnetworks.com,540,Energy & Utilities,$10M-$50M,2011,Canada,2025-12-15
+V5364,Thicket Works LLC,thicketworks.co3,800,Logistics & Supply Chain,$250M+,1997,Australia,2025-08-11
+V5347,Acorn Technologies LLC,acorntechnologies.com,22,Financial Services,$1M-$10M,2019,Germany,2025-11-07
+V5245,Nimbus Analytics LLC,nimbusanalytics.com,45,Education Technology,$50M-$250M,2021,United States,2025-07-15
+V5105,Lumen Dynamics Inc.,lumendynamics.com,160,Healthcare Technology,$10M-$50M,1991,Canada,2025-06-19
+V5062,Zephyr Group GmbH,zephyrgroup.com,1800,Consumer Retail,$250M+,1998,United Kingdom,2025-08-23
+V5125,Thicket Technologies GmbH,thickettechnologies.com,45,Telecommunications,$50M-$250M,1992,India,2025-05-18
+V5268,Willow Industries Inc.,willowindustries.com,3200,Information Security,$1M-$10M,1993,Canada,2025-08-27
+V5046,Pinecrest Technologies Ltd.,pinecresttechnologies.com,8,Energy & Utilities,$50M-$250M,2000,United States,2025-10-18
+V5217,Larkspur Networks Inc.,larkspurnetworks.com,1800,Healthcare Technology,<$1M,2014,Australia,2025-02-02
+V5038,Tideline Works Ltd.,tidelineworks.com,1800,Industrial Manufacturing,$250M+,2010,United States,2025-10-06
+V5010,Onyx Works GmbH,onyxworks.com,280,Healthcare Technology,<$1M,2017,Germany,2025-04-19
+V5353,Onyx Industries GmbH,onyxindustries.com,280,Information Security,<$1M,2006,Germany,2025-03-25
+V5134,Hollow Group LLC,hollowgroup.com,8,Consumer Retail,<$1M,2002,Germany,2025-10-20
+V5118,Fathom Technologies Ltd.,fathomtechnologies.com,540,Education Technology,$50M-$250M,2012,Canada,2025-11-17
+V5203,Elmwood Systems Inc.,elmwoodsystems.com,540,Telecommunications,$250M+,2022,United States,2025-10-21
+V5324,Rivet Works LLC,rivetworks.com,900,Healthcare Technology,$1M-$10M,2017,United Kingdom,2025-07-09
+V5088,Lumen Works LLC,lumenworks.com,3200,Education Technology,$10M-$50M,2018,Germany,2025-06-08
+V5145,Hollow Solutions GmbH,hollowsolutions.com,90,Telecommunications,$1M-$10M,1991,Canada,2025-08-07
+V5142,Meridian Labs Inc.,meridianlabs.com,45,Information Security,$50M-$250M,1990,Australia,2025-07-27
+V5235,Basalt Technologies GmbH,basalttechnologies.com,160,Telecommunications,<$1M,2014,Germany,2025-09-18
+V5023,Glint Analytics Inc.,glintanalytics.com,3200,Information Security,$1M-$10M,2010,Canada,2025-06-17
+V5253,Zephyr Works GmbH,zephyrworks.com,3200,Logistics & Supply Chain,<$1M,2022,United Kingdom,2025-11-04
+V5019,Ember Technologies GmbH,embertechnologies.com,540,Logistics & Supply Chain,<$1M,2015,Australia,2025-09-04
+V5248,Ember Industries LLC,emberindustries.com,280,Interactive Entertainment,$1M-$10M,2004,Germany,2025-11-03
+V5298,Juniper Works Inc.,juniperworks.com,22,Interactive Entertainment,$250M+,1998,Australia,2025-01-16
+V5193,Quartz Systems Ltd.,quartzsystems.com,22,Education Technology,$10M-$50M,2018,United States,2025-07-05
+V5148,Quartz Technologies Inc.,quartztechnologies.com,8,Interactive Entertainment,$1M-$10M,2014,Canada,2025-02-02
+V5220,Granite Systems GmbH,granitesystems.com,3200,Interactive Entertainment,$250M+,2021,Canada,2025-05-24
+V5238,Quartz Works Inc.,quartzworks.com,8,Interactive Entertainment,$10M-$50M,1993,United States,2025-11-19
+V5102,Fathom Analytics LLC,fathomanalytics.com,22,Consumer Retail,$10M-$50M,1994,Germany,2025-09-27
+V5206,Brightpath Works GmbH,brightpathworks.com,1800,Financial Services,$1M-$10M,2016,United Kingdom,2025-10-08
+V5276,Sterling Labs Inc.,sterlinglabs.com,90,Education Technology,<$1M,2003,United Kingdom,2025-08-03
+V5182,Lumen Industries Ltd.,lumenindustries.com,160,Education Technology,$250M+,2021,Germany,2025-02-16
+V5002,Jetty Solutions GmbH,jettysolutions.com,22,Healthcare Technology,$250M+,2014,United States,2025-12-19
+V5261,Onyx Solutions Inc.,onyxsolutions.com,160,Logistics & Supply Chain,$1M-$10M,2014,Germany,2025-01-23
+V5013,Dovetail Works Inc.,dovetailworks.com,3200,Consumer Retail,$1M-$10M,1998,Canada,2025-04-24
+V5008,Quill Networks Inc.,quillnetworks.com,3200,Interactive Entertainment,$10M-$50M,2019,Germany,2025-10-18
+V5163,Jetty Networks Inc.,jettynetworks.com,8,Interactive Entertainment,$10M-$50M,1996,United States,2025-04-28
+V5116,Yarrow Group Inc.,yarrowgroup.com,90,Interactive Entertainment,$1M-$10M,2010,United States,2025-09-04
+V5280,Brightpath Dynamics Ltd.,brightpathdynamics.com,280,Energy & Utilities,<$1M,2001,Germany,2025-12-28
+V5159,Tideline Systems Inc.,tidelinesystems.com,22,Information Security,<$1M,2013,Australia,2025-12-26
+V5099,Ember Group LLC,embergroup.com,45,Telecommunications,$50M-$250M,1994,United Kingdom,2025-05-13
+V5078,Kestrel Systems Ltd.,kestrelsystems.com,22,Interactive Entertainment,<$1M,2013,Germany,2025-05-14
+V5317,Sterling Works Ltd.,sterlingworks.com,280,Interactive Entertainment,$10M-$50M,1998,India,2025-11-14
+V5076,Sterling Industries GmbH,sterlingindustries.com,22,Healthcare Technology,$250M+,2018,Canada,2025-01-22
+V5284,Glint Labs GmbH,glintlabs.com,540,Interactive Entertainment,$1M-$10M,2014,Canada,2025-11-16
+V5071,Saffron Networks Ltd.,saffronnetworks.com,8,Information Security,$250M+,2007,Canada,2025-05-13
+V5153,Northwind Systems LLC,northwindsystems.com,540,Consumer Retail,$250M+,2015,India,2025-03-04
+V5301,Anchor Networks Inc.,anchornetworks.com,540,Energy & Utilities,<$1M,2019,Australia,2025-03-09
+V5174,Kestrel Labs LLC,kestrellabs.com,8,Financial Services,$10M-$50M,1997,Germany,2025-02-22
+V5130,Acorn Group LLC,acorngroup.com,90,Healthcare Technology,$50M-$250M,2008,Canada,2025-07-12
+V5274,Mosaic Works Ltd.,mosaicworks.com,900,Energy & Utilities,<$1M,1999,Canada,2025-06-10
+V5180,Ember Works Ltd.,emberworks.com,90,Logistics & Supply Chain,$10M-$50M,2010,United Kingdom,2025-06-08
+V5091,Meridian Solutions Inc.,meridiansolutions.com,160,Healthcare Technology,$50M-$250M,2015,Canada,2025-03-06
+V5156,Tideline Labs Inc.,tidelinelabs.com,22,Industrial Manufacturing,$50M-$250M,2003,Australia,2025-11-21
+V5026,Orbit Analytics Ltd.,orbitanalytics.com,3200,Telecommunications,<$1M,1993,India,2025-07-10
+V5043,Cedar Labs LLC,cedarlabs.com,8,Telecommunications,<$1M,1995,Germany,2025-08-12
+V5304,Willow Networks GmbH,willownetworks.com,22,Telecommunications,<$1M,1995,Australia,2025-08-07
+V5258,Northwind Industries Inc.,northwindindustries.com,90,Financial Services,$10M-$50M,2002,Germany,2025-11-06
+V5319,Ironwood Labs LLC,ironwoodlabs.com,1800,Logistics & Supply Chain,$1M-$10M,2006,United Kingdom,2025-01-23
+V5243,Dovetail Industries LLC,dovetailindustries.com,540,Education Technology,<$1M,1990,Canada,2025-04-21
+V5108,Umbra Dynamics LLC,umbradynamics.com,1800,Telecommunications,$1M-$10M,2013,Australia,2025-11-27
+V5344,Inlet Technologies Ltd.,inlettechnologies.com,3200,Information Security,$1M-$10M,2005,Canada,2025-07-08
+V5032,Tideline Solutions Ltd.,tidelinesolutions.com,160,Financial Services,<$1M,2006,Germany,2025-11-07
+V5035,Hollow Works GmbH,hollowworks.com,3200,Healthcare Technology,<$1M,1993,United Kingdom,2025-02-07
+V5168,Thicket Labs LLC,thicketlabs.com,900,Consumer Retail,$1M-$10M,2018,Germany,2025-09-10
+V5065,Granite Industries LLC,graniteindustries.com,22,Education Technology,<$1M,1996,Germany,2025-10-17
+V5057,Orbit Systems Inc.,orbitsystems.com,90,Information Security,<$1M,2009,United States,2025-01-04
+V5212,Quartz Dynamics Inc.,quartzdynamics.com,280,Consumer Retail,$50M-$250M,2015,India,2025-09-23
+V5278,Saffron Systems Inc.,saffronsystems.com,22,Education Technology,$10M-$50M,2022,India,2025-01-01
+V5229,Nimbus Technologies LLC,nimbustechnologies.com,280,Consumer Retail,$10M-$50M,1999,Germany,2025-03-02
+V5059,Birch Solutions Inc.,birchsolutions.com,3200,Financial Services,<$1M,1991,Germany,2025-03-28
+V5165,Orbit Dynamics LLC,orbitdynamics.com,280,Interactive Entertainment,<$1M,2020,Canada,2025-02-04
+V5113,Umbra Analytics LLC,umbraanalytics.com,900,Information Security,$10M-$50M,2013,Australia,2025-07-17
+V5350,Jetty Systems Ltd.,jettysystems.com,900,Financial Services,<$1M,2001,United Kingdom,2025-02-05
+V5200,Fathom Labs Inc.,fathomlabs.com,540,Consumer Retail,$1M-$10M,2014,United Kingdom,2025-11-26
+V5086,Thicket Networks Ltd.,thicketnetworks.com,900,Information Security,$10M-$50M,2010,United States,2025-08-16
+V5307,Harbor Dynamics LLC,harbordynamics.com,45,Healthcare Technology,$50M-$250M,2014,Australia,2025-03-02
+V5081,Orbit Technologies LLC,orbittechnologies.com,45,Information Security,$250M+,2008,United Kingdom,2025-07-24
+V5359,Anchor Networks GmbH,anchornetworks.co1,60,Telecommunications,$1M-$10M,2002,United Kingdom,2025-01-28
+V5127,Fathom Works Inc.,fathomworks.com,900,Financial Services,$10M-$50M,1997,United Kingdom,2025-05-20
+V5096,Cobalt Systems Ltd.,cobaltsystems.com,160,Healthcare Technology,$250M+,2007,Australia,2025-08-12
+V5329,Foxglove Works Inc.,foxgloveworks.com,3200,Education Technology,$250M+,1990,Australia,2025-01-06
+V5016,Elmwood Technologies Inc.,elmwoodtechnologies.com,45,Energy & Utilities,$50M-$250M,2011,Australia,2025-03-16

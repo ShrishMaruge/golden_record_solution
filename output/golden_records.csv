@@ -1,0 +1,145 @@
+golden_id,name,domain,industry,employees,country,city,email,revenue_band,founded_year,source_count
+G00001,Drift Technologies GmbH,drifttechnologies.com,Consumer Retail,1080,United States,Austin,info@drifttechnologies.com,,,1
+G00002,Birch Solutions Inc.,birchsolutions.com,Financial Services,3200,Germany,Berlin,info@birchsolutions.com,<$1M,1991,3
+G00003,Granite Industries LLC,graniteindustries.com,Education Technology,22,Germany,Munich,info@graniteindustries.com,<$1M,1996,3
+G00004,Granite Systems GmbH,granitesystems.com,Interactive Entertainment,3200,Canada,Vancouver,info@granitesystems.com,$250M+,2021,3
+G00005,Kestrel Systems Ltd.,kestrelsystems.com,Interactive Entertainment,22,Germany,Munich,info@kestrelsystems.com,<$1M,2013,3
+G00006,Glint Networks LLC,glintnetworks.com,Energy & Utilities,540,Canada,Vancouver,info@glintnetworks.com,$10M-$50M,2011,3
+G00007,Thicket Works LLC,,Logistics & Supply Chain,800,Australia,Melbourne,info@thicketworks.com,$250M+,1997,3
+G00008,Sterling Industries Ltd.,,Financial Services,480,Germany,Berlin,info@sterlingindustries.com,,,2
+G00009,Thicket Networks Ltd.,thicketnetworks.com,Information Security,900,United States,Seattle,info@thicketnetworks.com,$10M-$50M,2010,2
+G00010,Quartz Dynamics Inc.,quartzdynamics.com,Consumer Retail,280,India,Hyderabad,info@quartzdynamics.com,$50M-$250M,2015,3
+G00011,Dovetail Works Inc.,dovetailworks.com,Consumer Retail,3200,Canada,Toronto,,$1M-$10M,1998,3
+G00012,harbor technologies Inc.,harbortechnologies.com,Industrial Manufacturing,360,Australia,Sydney,info@harbortechnologies.com,,,1
+G00013,Tideline Solutions Ltd.,tidelinesolutions.com,Financial Services,160,Germany,Munich,info@tidelinesolutions.com,<$1M,2006,3
+G00014,Orbit Dynamics LLC,orbitdynamics.com,Interactive Entertainment,280,Canada,Vancouver,info@orbitdynamics.com,<$1M,2020,3
+G00015,Northwind Works LLC,northwindworks.com,Logistics & Supply Chain,22,Germany,,info@northwindworks.com,$1M-$10M,2003,2
+G00016,Northwind Industries Inc.,northwindindustries.com,Financial Services,90,Germany,Munich,info@northwindindustries.com,$10M-$50M,2002,3
+G00017,Orbit Technologies LLC,orbittechnologies.com,Information Security,45,United Kingdom,London,info@orbittechnologies.com,$250M+,2008,3
+G00018,Fathom Analytics LLC,fathomanalytics.com,Consumer Retail,22,Germany,Berlin,info@fathomanalytics.com,$10M-$50M,1994,3
+G00019,Acorn Group LLC,acorngroup.com,Healthcare Technology,90,Canada,Toronto,info@acorngroup.com,$50M-$250M,2008,3
+G00020,Fathom Labs Inc.,fathomlabs.com,Consumer Retail,540,United Kingdom,London,info@fathomlabs.com,$1M-$10M,2014,3
+G00021,Thicket Technologies GmbH,thickettechnologies.com,Telecommunications,45,India,,,$50M-$250M,1992,2
+G00022,Ember Group LLC,embergroup.com,Telecommunications,45,United Kingdom,London,info@embergroup.com,$50M-$250M,1994,3
+G00023,Ember Works Ltd.,emberworks.com,Logistics & Supply Chain,90,United Kingdom,Manchester,info@emberworks.com,$10M-$50M,2010,2
+G00024,Onyx Works GmbH,onyxworks.com,Healthcare Technology,280,Germany,Munich,info@onyxworks.com,<$1M,2017,3
+G00025,Ember Industries LLC,emberindustries.com,Interactive Entertainment,280,Germany,Berlin,info@emberindustries.com,$1M-$10M,2004,2
+G00026,Lumen Industries Ltd.,lumenindustries.com,Education Technology,160,Germany,Berlin,info@lumenindustries.com,$250M+,2021,3
+G00027,Willow Industries Inc.,willowindustries.com,Information Security,3200,Canada,Toronto,info@willowindustries.com,$1M-$10M,1993,3
+G00028,Sterling Labs Inc.,sterlinglabs.com,Education Technology,90,United Kingdom,,info@sterlinglabs.com,<$1M,2003,2
+G00029,Elmwood Systems Inc.,elmwoodsystems.com,Telecommunications,540,United States,Boston,info@elmwoodsystems.com,$250M+,2022,3
+G00030,Onyx Industries GmbH,onyxindustries.com,Information Security,280,Germany,Berlin,info@onyxindustries.com,<$1M,2006,2
+G00031,Cobalt Labs LLC,,Logistics & Supply Chain,200,India,Pune,info@cobaltlabs.com,<$1M,2014,2
+G00032,Inlet Dynamics,inletdynamics.com,Consumer Retail,,India,Hyderabad,info@inletdynamics.com,,,1
+G00033,Orbit Systems Inc.,orbitsystems.com,Information Security,90,United States,Austin,,<$1M,2009,2
+G00034,Zephyr Group GmbH,zephyrgroup.com,Consumer Retail,1800,United Kingdom,Manchester,info@zephyrgroup.com,$250M+,1998,3
+G00035,Tideline Labs Inc.,tidelinelabs.com,Industrial Manufacturing,22,Australia,Sydney,info@tidelinelabs.com,$50M-$250M,2003,3
+G00036,Hollow Works GmbH,hollowworks.com,Healthcare Technology,3200,United Kingdom,Bristol,info@hollowworks.com,<$1M,1993,3
+G00037,Brightpath Dynamics Ltd.,brightpathdynamics.com,Energy & Utilities,280,Germany,Berlin,info@brightpathdynamics.com,<$1M,2001,3
+G00038,Quartz Works Inc.,quartzworks.com,Interactive Entertainment,8,United States,Austin,info@quartzworks.com,$10M-$50M,1993,3
+G00039,Meridian Solutions Inc.,meridiansolutions.com,Healthcare Technology,160,Canada,Toronto,info@meridiansolutions.com,$50M-$250M,2015,3
+G00040,Anchor Works Co.,anchorworks.com,Financial Services,112,India,Pune,info@anchorworks.com,,,2
+G00041,Umbra Analytics LLC,umbraanalytics.com,Information Security,900,Australia,Sydney,info@umbraanalytics.com,$10M-$50M,2013,3
+G00042,"Orbit,Labs Ltd.",orbitlabs.com,Energy & Utilities,11,Germany,Munich,info@orbitlabs.com,,,2
+G00043,Brightpath Labs GmbH,brightpathlabs.com,Energy & Utilities,8,Germany,Berlin,info@brightpathlabs.com,$250M+,2017,2
+G00044,Jetty Systems Ltd.,jettysystems.com,Financial Services,900,United Kingdom,London,info@jettysystems.com,<$1M,2001,3
+G00045,"cobalt,networks Co.",cobaltnetworks.com,Education Technology,54,India,Hyderabad,info@cobaltnetworks.com,,,1
+G00046,Mosaic Solutions Ltd,mosaicsolutions.com,Financial Services,216,Australia,Melbourne,info@mosaicsolutions.com,,,2
+G00047,Cobalt Systems Ltd.,cobaltsystems.com,Healthcare Technology,160,Australia,Melbourne,info@cobaltsystems.com,$250M+,2007,3
+G00048,Yarrow Technologies Ltd,yarrowtechnologies.com,Logistics & Supply Chain,216,United Kingdom,,info@yarrowtechnologies.com,,,2
+G00049,Willow Networks GmbH,willownetworks.com,Telecommunications,22,Australia,Sydney,info@willownetworks.com,<$1M,1995,3
+G00050,Jetty Solutions GmbH,jettysolutions.com,Healthcare Technology,22,United States,Denver,info@jettysolutions.com,$250M+,2014,3
+G00051,Umbra Dynamics Ltd.,umbradynamics.com,Telecommunications,1800,Australia,Melbourne,,$1M-$10M,2013,3
+G00052,Northwind Systems LLC,northwindsystems.com,Consumer Retail,540,India,Pune,,$250M+,2015,3
+G00053,Onyx Solutions Inc.,onyxsolutions.com,Logistics & Supply Chain,160,Germany,Munich,info@onyxsolutions.com,$1M-$10M,2014,3
+G00054,Kestrel Labs LLC,kestrellabs.com,Financial Services,8,Germany,Berlin,info@kestrellabs.com,$10M-$50M,1997,3
+G00055,Anchor Networks Inc.,anchornetworks.com,Energy & Utilities,540,Australia,Sydney,info@anchornetworks.com,<$1M,2019,3
+G00056,Juniper Industries Inc.,juniperindustries.com,Consumer Retail,540,Canada,Toronto,,<$1M,2017,3
+G00057,Anchor Solutions Ltd.,anchorsolutions.com,Financial Services,22,Germany,Munich,info@anchorsolutions.com,$50M-$250M,2005,2
+G00058,Tideline Systems Inc.,tidelinesystems.com,Information Security,22,Australia,Sydney,info@tidelinesystems.com,<$1M,2013,2
+G00059,Lumen Dynamics Inc.,lumendynamics.com,Healthcare Technology,160,Canada,Toronto,info@lumendynamics.com,$10M-$50M,1991,3
+G00060,Glint Technologies LLC,glinttechnologies.com,Interactive Entertainment,8,United States,Seattle,info@glinttechnologies.com,$250M+,2007,2
+G00061,Quartz Labs Inc.,quartzlabs.com,Energy & Utilities,36,India,Hyderabad,info@quartzlabs.com,,,2
+G00062,Hollow Solutions GmbH,hollowsolutions.com,Telecommunications,90,Canada,Toronto,info@hollowsolutions.com,$1M-$10M,1991,3
+G00063,Tideline Technologies Inc.,tidelinetechnologies.com,Consumer Retail,280,India,Bengaluru,info@tidelinetechnologies.com,$50M-$250M,2003,3
+G00064,"Inlet,Group Inc",inletgroup.com,Consumer Retail,22,Germany,Munich,info@inletgroup.com,,,2
+G00065,Thicket Labs LLC,thicketlabs.com,Consumer Retail,900,Germany,Munich,info@thicketlabs.com,$1M-$10M,2018,3
+G00066,Lumen Works LLC,lumenworks.com,Education Technology,3200,Germany,,info@lumenworks.com,$10M-$50M,2018,3
+G00067,Fathom Networks Inc.,fathomnetworks.com,Education Technology,45,United Kingdom,Manchester,,$250M+,1993,3
+G00068,Brightpath Works GmbH,brightpathworks.com,Financial Services,1800,United Kingdom,London,info@brightpathworks.com,$1M-$10M,2016,3
+G00069,Larkspur Networks Inc.,larkspurnetworks.com,Healthcare Technology,1800,Australia,Melbourne,info@larkspurnetworks.com,<$1M,2014,3
+G00070,Hollow Group LLC,hollowgroup.com,Consumer Retail,8,Germany,Munich,info@hollowgroup.com,<$1M,2002,3
+G00071,Ember Systems Inc.,embersystems.com,Logistics & Supply Chain,540,India,Bengaluru,info@embersystems.com,$10M-$50M,1993,2
+G00072,Elmwood Works LLC,elmwoodworks.com,Information Security,1800,United Kingdom,,info@elmwoodworks.com,$250M+,2012,2
+G00073,MOSAIC GROUP GmbH,mosaicgroup.com,Energy & Utilities,1260,United States,Denver,info@mosaicgroup.com,,,2
+G00074,Meridian Dynamics GmbH,meridiandynamics.com,Logistics & Supply Chain,8,Canada,Toronto,info@meridiandynamics.com,<$1M,2020,3
+G00075,Orbit Analytics Ltd.,orbitanalytics.com,Telecommunications,3200,India,Bengaluru,info@orbitanalytics.com,<$1M,1993,3
+G00076,"petal,dynamics Co.",petaldynamics.com,Telecommunications,1260,United States,Boston,info@petaldynamics.com,,,2
+G00077,Rivet Works LLC,rivetworks.com,Healthcare Technology,900,United Kingdom,London,info@rivetworks.com,$1M-$10M,2017,2
+G00078,Basalt Technologies GmbH,basalttechnologies.com,Telecommunications,160,Germany,Berlin,info@basalttechnologies.com,<$1M,2014,3
+G00079,Nimbus Technologies LLC,nimbustechnologies.com,Consumer Retail,280,Germany,Berlin,,$10M-$50M,1999,3
+G00080,Juniper Works Inc.,juniperworks.com,Interactive Entertainment,22,Australia,Melbourne,,$250M+,1998,3
+G00081,Sterling Solutions Inc.,sterlingsolutions.com,Logistics & Supply Chain,280,Canada,Toronto,info@sterlingsolutions.com,<$1M,2009,3
+G00082,Meridian Labs Inc.,meridianlabs.com,Information Security,45,Australia,Sydney,info@meridianlabs.com,$50M-$250M,1990,3
+G00083,Larkspur Dynamics Inc,larkspurdynamics.com,Healthcare Technology,,Australia,Melbourne,,,,1
+G00084,Onyx Analytics LLC,onyxanalytics.com,Education Technology,22,India,Pune,info@onyxanalytics.com,$1M-$10M,1995,3
+G00085,Pinecrest Technologies Ltd.,pinecresttechnologies.com,Energy & Utilities,8,United States,Denver,info@pinecresttechnologies.com,$50M-$250M,2000,3
+G00086,Harbor Dynamics LLC,harbordynamics.com,Healthcare Technology,45,Australia,Sydney,info@harbordynamics.com,$50M-$250M,2014,3
+G00087,COBALT LABS Ltd.,cobaltlabs.com,Interactive Entertainment,216,Australia,Melbourne,info@cobaltlabs.com,,,1
+G00088,Anchor Analytics GmbH,anchoranalytics.com,Telecommunications,160,Canada,Vancouver,info@anchoranalytics.com,$10M-$50M,1994,3
+G00089,Kestrel Solutions Ltd.,kestrelsolutions.com,Financial Services,280,United States,Denver,info@kestrelsolutions.com,$10M-$50M,2017,3
+G00090,Ironwood Labs LLC,ironwoodlabs.com,Logistics & Supply Chain,1800,United Kingdom,Manchester,info@ironwoodlabs.com,$1M-$10M,2006,3
+G00091,Elmwood Technologies Inc.,elmwoodtechnologies.com,Energy & Utilities,45,Australia,Sydney,info@elmwoodtechnologies.com,$50M-$250M,2011,3
+G00092,Petal Industries Inc.,petalindustries.com,Industrial Manufacturing,3200,India,Hyderabad,info@petalindustries.com,$1M-$10M,2013,3
+G00093,Yarrow Industries Inc.,yarrowindustries.com,Financial Services,8,United Kingdom,Bristol,info@yarrowindustries.com,$10M-$50M,2004,3
+G00094,Saffron Systems Inc.,saffronsystems.com,Education Technology,22,India,Hyderabad,info@saffronsystems.com,$10M-$50M,2022,2
+G00095,nimbus networks Inc,nimbusnetworks.com,Energy & Utilities,11,United Kingdom,London,info@nimbusnetworks.com,,,1
+G00096,Zephyr Works GmbH,zephyrworks.com,Logistics & Supply Chain,3200,United Kingdom,Manchester,info@zephyrworks.com,<$1M,2022,3
+G00097,Anchor Industries GmbH,anchorindustries.com,Healthcare Technology,1800,India,Bengaluru,,$1M-$10M,2005,3
+G00098,Glint Analytics Inc.,glintanalytics.com,Information Security,3200,Canada,Toronto,info@glintanalytics.com,$1M-$10M,2010,3
+G00099,Zephyr Dynamics GmbH,zephyrdynamics.com,Energy & Utilities,45,Canada,Toronto,info@zephyrdynamics.com,$250M+,2001,3
+G00100,Sterling Dynamics Ltd.,sterlingdynamics.com,Logistics & Supply Chain,22,Germany,,,$10M-$50M,2004,1
+G00101,Northwind Labs Ltd.,northwindlabs.com,Interactive Entertainment,22,United Kingdom,,,$250M+,2018,1
+G00102,Umbra Labs Inc.,umbralabs.com,Energy & Utilities,280,United States,Seattle,,$250M+,2004,2
+G00103,Harbor Works GmbH,harborworks.com,Consumer Retail,1800,India,,,$250M+,2009,2
+G00104,Harbor Systems Inc.,harborsystems.com,Education Technology,22,Canada,Toronto,,$1M-$10M,2018,2
+G00105,Granite Dynamics GmbH,granitedynamics.com,Telecommunications,900,Germany,Berlin,,$10M-$50M,2018,2
+G00106,Cinder Labs Inc.,cinderlabs.com,Education Technology,540,Australia,,,$250M+,1991,1
+G00107,Cobalt Group Ltd.,cobaltgroup.com,Logistics & Supply Chain,3200,United Kingdom,Manchester,,<$1M,1999,2
+G00108,Pinecrest Industries LLC,pinecrestindustries.com,Industrial Manufacturing,160,Australia,,,$10M-$50M,2015,1
+G00109,Birch Group LLC,birchgroup.com,Consumer Retail,160,Canada,,,$50M-$250M,2006,1
+G00110,Granite Group GmbH,granitegroup.com,Logistics & Supply Chain,90,United Kingdom,,,$1M-$10M,2005,1
+G00111,Verdant Solutions GmbH,verdantsolutions.com,Industrial Manufacturing,90,United States,Denver,,$50M-$250M,2006,2
+G00112,Halcyon Analytics LLC,halcyonanalytics.com,Consumer Retail,3200,United States,Seattle,,$1M-$10M,2003,2
+G00113,Acorn Technologies LLC,acorntechnologies.com,Financial Services,22,Germany,Berlin,,$1M-$10M,2019,2
+G00114,Nimbus Analytics LLC,nimbusanalytics.com,Education Technology,45,United States,Austin,,$50M-$250M,2021,2
+G00115,Tideline Works Ltd.,tidelineworks.com,Industrial Manufacturing,1800,United States,Boston,,$250M+,2010,2
+G00116,Fathom Technologies Ltd.,fathomtechnologies.com,Education Technology,540,Canada,Toronto,,$50M-$250M,2012,2
+G00117,Ember Technologies GmbH,embertechnologies.com,Logistics & Supply Chain,540,Australia,,,<$1M,2015,1
+G00118,Quartz Systems Ltd.,quartzsystems.com,Education Technology,22,United States,Austin,,$10M-$50M,2018,2
+G00119,Quartz Technologies Inc.,quartztechnologies.com,Interactive Entertainment,8,Canada,,,$1M-$10M,2014,1
+G00120,Quill Networks Inc.,quillnetworks.com,Interactive Entertainment,3200,Germany,,,$10M-$50M,2019,1
+G00121,Jetty Networks Inc.,jettynetworks.com,Interactive Entertainment,8,United States,,,$10M-$50M,1996,1
+G00122,Yarrow Group Inc.,yarrowgroup.com,Interactive Entertainment,90,United States,,,$1M-$10M,2010,1
+G00123,Sterling Works Ltd.,sterlingworks.com,Interactive Entertainment,280,India,,,$10M-$50M,1998,1
+G00124,Sterling Industries GmbH,sterlingindustries.com,Healthcare Technology,22,Canada,,,$250M+,2018,1
+G00125,Glint Labs GmbH,glintlabs.com,Interactive Entertainment,540,Canada,,,$1M-$10M,2014,1
+G00126,Saffron Networks Ltd.,saffronnetworks.com,Information Security,8,Canada,Toronto,,$250M+,2007,2
+G00127,Mosaic Works Ltd.,mosaicworks.com,Energy & Utilities,900,Canada,,,<$1M,1999,1
+G00128,Cedar Labs LLC,cedarlabs.com,Telecommunications,8,Germany,Berlin,,<$1M,1995,2
+G00129,Dovetail Industries LLC,dovetailindustries.com,Education Technology,540,Canada,,,<$1M,1990,1
+G00130,Inlet Technologies Ltd.,inlettechnologies.com,Information Security,3200,Canada,Toronto,,$1M-$10M,2005,2
+G00131,Anchor Networks GmbH,,Telecommunications,60,United Kingdom,,,$1M-$10M,2002,2
+G00132,Fathom Works Inc.,fathomworks.com,Financial Services,900,United Kingdom,Bristol,,$10M-$50M,1997,2
+G00133,Foxglove Works Inc.,foxgloveworks.com,Education Technology,3200,Australia,Sydney,,$250M+,1990,2
+G00134,DRIFT WORKS LLC,driftworks.com,Energy & Utilities,350,India,Pune,,,,1
+G00135,ANCHOR LABS LLC,anchorlabs.com,Telecommunications,1000,Canada,Toronto,,,,1
+G00136,thicket works Corp,thicketworks.com,Energy & Utilities,30,Germany,Berlin,,,,1
+G00137,Juniper Labs LLC,juniperlabs.com,Financial Services,350,India,Pune,,,,1
+G00138,Meridian Networks Ltd,meridiannetworks.com,Consumer Retail,1000,Australia,Sydney,,,,1
+G00139,Mosaic Technologies Inc.,mosaictechnologies.com,Telecommunications,126,United States,Austin,,,,1
+G00140,Yarrow Works Ltd.,yarrowworks.com,Education Technology,1000,United Kingdom,Manchester,,,,1
+G00141,Lumen Systems Corp,lumensystems.com,Education Technology,350,Canada,Vancouver,,,,1
+G00142,"PETAL,WORKS Inc",petalworks.com,Financial Services,350,,,,,,1
+G00143,Zephyr Systems Ltd,zephyrsystems.com,Education Technology,750,Canada,Toronto,,,,1
+G00144,Ironwood Analytics Co.,ironwoodanalytics.com,Energy & Utilities,126,Germany,Berlin,,,,1
